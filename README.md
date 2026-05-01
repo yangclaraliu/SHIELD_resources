@@ -9,7 +9,7 @@ If you require any assistance of this sort, please create an issue as described 
 
 ## What's here
 - **[Collaborative research practices](ResearchPractice.md)** — shared norms, workflows, and standards for how the team conducts research together
-- **[Study guide](path_style_rules.md)** — PATH style guide to be used to standardise document as a last iteration before finalisation. Please note that in this document, there is some personalised content at the top ('Human Overrides') that should be varied person to person.
+- **[Style guide](path_style_rules.md)** — PATH style guide to be used to standardise document as a last iteration before finalisation. Please note that in this document, there is some personalised content at the top ('Human Overrides') that should be varied person to person.
 - **[Inception report template](inception_report_template.md)** — this template can be used for all inception reports within the project life cycle.
 
 ## Contributing
