@@ -20,5 +20,3 @@ Use the [Issues tab](../../issues) to:
 - **Ask a question** — open an issue with the `question` label and @mention the relevant team member. You can quote specific code file/ line numbers for easier communication.
 - **Request a document or update** — describe what you need and why; the maintainer will triage and action it
 - **Flag something outdated** — note what has changed and link to the relevant section
-
-
